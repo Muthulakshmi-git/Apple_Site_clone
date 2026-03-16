@@ -356,7 +356,7 @@ const Footer = () => {
         </div>
       </div>
       {/* Section 3 for small screen */}
-      <div className="mx-10 my-10 text-sm flex flex-col gap-5">
+      <div className="mx-10 my-10 text-sm flex flex-col gap-5 md:hidden">
         {/* S1 */}
         <div className="flex items-center justify-between ">
             <h1 className="text-gray-600">Shop and learn</h1>
